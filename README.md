@@ -12,7 +12,7 @@
 > download termux
 > buka
 > pkg install git
-> git clone https://github.com/alfiansx/alfbot
+> git clone https://github.com/VARGASOFFICIAL/VARGAS-OFFICIAL250
 > cd alfbot
 > bash install.sh
 > node index.js
@@ -49,3 +49,4 @@
 
 ## SOSIAL MEDIA ADMIN
 * [`INSTAGRAM`](https://www.instagram.com/vargas_250/)
+* [`YOUTUBE` ] (https://youtube.com/channel/UCNUXc-wvktd1xmH9HLEpnWQ)
