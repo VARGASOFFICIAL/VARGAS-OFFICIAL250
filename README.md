@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="alfbot" src ="https://i.ibb.co/P6yvgkM/20201216-154040.jpg" width="320">
+    <img alt="VARGAS_250" src ="https://i.ibb.co/P6yvgkM/20201216-154040.jpg" width="320">
     <h3> BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX </h3>
 # VARGAS_250
 </div>
