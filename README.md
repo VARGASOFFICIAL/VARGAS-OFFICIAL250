@@ -47,5 +47,5 @@
 * [`botst4rz`](https://github.com/Bintang73/botst4rz)
 * [`ibnusyawall`](https://github.com/ibnusyawall)
 
-## DONASI
-* [`Saweria`](https://saweria.com/aditiaalfians)
+## SOSIAL MEDIA ADMIN
+* [`INSTAGRAM`](https://www.instagram.com/vargas_250/)
