@@ -49,4 +49,4 @@
 
 ## SOSIAL MEDIA ADMIN
 * [`INSTAGRAM`](https://www.instagram.com/vargas_250/)
-* [`YOUTUBE` ] (https://youtube.com/channel/UCNUXc-wvktd1xmH9HLEpnWQ)
+* [`YOUTUBE`](https://youtube.com/channel/UCNUXc-wvktd1xmH9HLEpnWQ)
