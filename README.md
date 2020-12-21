@@ -1,7 +1,7 @@
 <div align="center">
     <img alt="alfbot" src ="https://i.ibb.co/jD65tdm/62-812-1347-7896-20201109-230938.jpg" width="320">
     <h3> BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX </h3>
-# ALF BOT
+# VARGAS_250
 </div>
 
 
